@@ -1,0 +1,32 @@
+
+
+
+table {
+    display: flex;
+    width: 200px;
+}
+td {
+    text-align: center;   
+}
+ th{
+    height: 50px;
+    width: 100px;
+    background-color: #04aa6d;
+    color: aliceblue;
+ }
+ th, td {
+    border-bottom: 1px dotted burlywood;
+ }
+  tr:hover {
+    background-color: coral;
+  }
+   td {
+    background-image: -moz-linear-gradient();
+   }
+    tr:nth-child(even) { background-color:   #f2f2f2;
+    }
+    
+
+
+
+     

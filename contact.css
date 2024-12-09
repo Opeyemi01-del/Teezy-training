@@ -1,0 +1,15 @@
+li {
+    color: brown;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    border: 4px;
+}
+
+h2 {
+    border: 1px solid blue;
+    background-color: blueviolet;
+    border-radius: 6px;
+    position: relative;
+    left: 3px;
+}
